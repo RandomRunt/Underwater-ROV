@@ -19,6 +19,7 @@ Microplastics pose a major threat to marine wildlife in the modern day due to th
 
 ## Final Controller
 ![Controller_V2](https://github.com/user-attachments/assets/795a0e27-ffe4-455b-b375-484c431b08f1)
+![ROV_Controller_with_LiPo](https://github.com/user-attachments/assets/1eaaa865-c6f7-4800-af62-93d61e226870)
 
 ## Final ROV
 ![ROV_Final](https://github.com/user-attachments/assets/1bd6678f-b5c9-4f1c-b773-1e25c91633df)
