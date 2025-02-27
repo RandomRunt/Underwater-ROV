@@ -10,6 +10,8 @@ Microplastics pose a major threat to marine wildlife in the modern day due to th
 ## Controller Prototype
 ![Controller_V1](https://github.com/user-attachments/assets/25b1a543-40f5-4034-ba1d-1f48325364ab)
 
+https://github.com/user-attachments/assets/d4e51f55-9971-4ebb-9978-db5801efbaaa
+
 ## CAD Files
 ### Controller CAD
 ![ROV_Controller_CAD_Final](https://github.com/user-attachments/assets/cb64f78d-0e1c-4fc5-8428-1f88f1beb40e)
@@ -23,4 +25,3 @@ Microplastics pose a major threat to marine wildlife in the modern day due to th
 
 ## Final ROV
 ![ROV_Final](https://github.com/user-attachments/assets/1bd6678f-b5c9-4f1c-b773-1e25c91633df)
-![ROV_Final_gif](https://drive.google.com/file/d/1VaO84U3YJmTD2HVasWkZ2aZin74FVNA4/view?usp=sharing)
